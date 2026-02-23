@@ -1,5 +1,10 @@
+# Brief
 This is a content based movie recommendation engine built using **Python, Pandas**, and **cosine similarity**.
 This project uses movie metadata from the TMDB 5000 Movie Dataset to recommend similar movies based on textual and categorical features such as genres, keywords, cast, and crew.
+
+Overview of working recommendation engine:
+<img width="310" height="217" alt="image" src="https://github.com/user-attachments/assets/fb32c2ba-17f1-4595-84ab-a1ba83c38528" />
+
 
 **Project Overview**
 
